@@ -1,0 +1,9 @@
+.createPost {
+    /* places the elements side by side, horizontally */
+    display: flex;
+    /* centers the elements with each other */
+    align-items: center;
+    /* vertically center elements */
+    justify-content: center;
+    padding: 16px 24px;
+}

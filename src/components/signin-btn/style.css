@@ -1,0 +1,11 @@
+.signInBtn {
+    background-color: #de7e46;
+    max-width: 150px;
+    /* max-width sets a limit on how wide the button can be. It wraps the text if needed; */
+    text-align: center;
+    padding: 8px 16px;
+    border-radius: 4px;
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+}

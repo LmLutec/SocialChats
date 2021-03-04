@@ -1,0 +1,11 @@
+.navbar {
+    /* flex display places elements in line, side by side (horizontally) */
+    display: flex;
+    /* flex-direction: column places elements on top of each other (vertically) */
+    /* justify-content places space-between elements (2 elments are on separate ends of the page; */
+    justify-content: space-between;
+    /* places padding around elements in navbar */
+    padding: 12px 24px;
+    background-color: white;
+
+}

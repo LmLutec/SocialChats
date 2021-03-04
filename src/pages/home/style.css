@@ -1,0 +1,6 @@
+/* styling for home page */
+.home {
+    background-color: #f3f2ef;
+    /*  vertical height of the view. Without this setting, navbar is equal to the height of the home*/
+    height: 100vh;
+}
